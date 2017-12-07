@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

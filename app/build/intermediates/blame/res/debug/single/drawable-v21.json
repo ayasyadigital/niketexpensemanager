@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

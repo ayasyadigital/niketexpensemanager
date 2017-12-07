@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/retake.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/retake.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_ok_highlight.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_ok_highlight.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_play.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_play.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/editbox_background_focus_yellow.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/editbox_background_focus_yellow.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/previous_arrow.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/previous_arrow.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/menuitem_manage_favorite.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/menuitem_manage_favorite.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_dialog_time.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/ic_dialog_time.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_rerecord_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_rerecord_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/favorite_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/favorite_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_this_week.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/tab_this_week.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/date_bar_bg_wo_shadow.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/date_bar_bg_wo_shadow.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/add_expenses_with_text.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/add_expenses_with_text.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_stop_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_stop_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/text_list_icon_no_tag.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/text_list_icon_no_tag.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/list_icon_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/list_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/graph_header.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/graph_header.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/save_entry.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/save_entry.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/save_entry_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/save_entry_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/border_view_finder.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/border_view_finder.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/edit_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/edit_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/horizontal_divider_list.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/horizontal_divider_list.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_cancel_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/no_image_small.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/no_image_small.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/no_voice_file_thumbnail.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/no_voice_file_thumbnail.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_cancel_highlight.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_cancel_highlight.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/list_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/list_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_ok_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_ok_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/on_screen_hint_frame.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/on_screen_hint_frame.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/save_reminder.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/save_reminder.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_all.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/tab_all.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_disable.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/flash_disable.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_ic_camera_shutter.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/btn_ic_camera_shutter.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_ok_normal.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_ok_normal.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_enable.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/flash_enable.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/update_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/update_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/editbox_background_normal.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/editbox_background_normal.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/add_expenses_with_text_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/add_expenses_with_text_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/listing_text_entry_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/listing_text_entry_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_shutter_normal.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/btn_shutter_normal.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/favorite_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/favorite_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/update.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/update.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/favorite_disabled.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/favorite_disabled.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/unknown_entry_dialog_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/unknown_entry_dialog_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/add_expenses_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/add_expenses_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_camera_pattern.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/bg_camera_pattern.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_camera.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_camera.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/list_divider.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/list_divider.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/save_reminder_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/save_reminder_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/delete_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/delete_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/focus_focusing.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/focus_focusing.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_voice.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_voice.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/focus_focus_failed.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/focus_focus_failed.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/focus_focused.9.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/focus_focused.9.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/topbar_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/topbar_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_retake_normal.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_retake_normal.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/menuitem_reviews.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/menuitem_reviews.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_text.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_text.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/no_voice_file_small.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/no_voice_file_small.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/no_image_thumbnail.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/no_image_thumbnail.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/dialog_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/generate_report_header.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/generate_report_header.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_this_year.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/tab_this_year.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/generate_report_header_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/generate_report_header_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/graph.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/graph.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/cancel_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/retake_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/retake_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/previous_arrow_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/previous_arrow_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/photo_frame.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/photo_frame.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_cancel_normal.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/menuitem_settings.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/menuitem_settings.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/listing_favorite_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/listing_favorite_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_shutter_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/btn_shutter_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/next_arrow.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/next_arrow.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_voice_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_voice_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/list_add_expenses_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/list_add_expenses_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/listing_voice_entry_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/listing_voice_entry_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/menuitem_generate_report.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/menuitem_generate_report.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_rerecord.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_rerecord.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_retake_highlight.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_retake_highlight.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_camera_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/delete.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/listing_reminder_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/listing_reminder_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_text_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_text_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_retake_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/camera_retake_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_auto.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/flash_auto.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_favorites_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_favorites_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/notification_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/notification_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_this_month.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/tab_this_month.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/cancel.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/next_arrow_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/next_arrow_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_play_pressed.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_play_pressed.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/alert_number_icon.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/alert_number_icon.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_stop.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/voice_stop.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/edit.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/home_favorites.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/home_favorites.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/bottom_bar_bg.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/bottom_bar_bg.png"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/drawable-hdpi/add_expenses.png",
+        "source": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/src/main/res/drawable-hdpi/add_expenses.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/niketgoel/.android/build-cache/7fa0f3d5e741684627baf29e08b8bb661d32a24a/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
