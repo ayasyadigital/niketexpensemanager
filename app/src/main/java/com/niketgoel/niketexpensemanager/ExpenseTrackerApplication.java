@@ -109,7 +109,10 @@ public class ExpenseTrackerApplication extends Application {
             out.close();
         }
     }
-	
+
+
+
+
 	private static void deleteDirectory(File fileOrDirectory) throws IOException{
 	    if (fileOrDirectory.isDirectory()) {
 	        for (File child : fileOrDirectory.listFiles()) { deleteDirectory(child);}

@@ -11,33 +11,6 @@
         <dex dex="/Users/niketgoel/Downloads/expense-tracker-master1/app/build/intermediates/pre-dexed/debug/gson-2.2.1_8f6c2173ab927e778fd69a083d8c623fcc848b33.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/libs/httpmime-4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
-        <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.2_5b0971043fc954111139ed73055d028ad0e42c20/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9dc46ad6ff04134982e37425e563c20c8d75d268/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/niketgoel/Downloads/expense-tracker-master1/app/libs/AndroidPdfLib.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="21ded6afa9d09d6916e663ce0c5708ca6c2ffa3b">
-        <dex dex="/Users/niketgoel/Downloads/expense-tracker-master1/app/build/intermediates/pre-dexed/debug/AndroidPdfLib_5fd1d1f98d9072454ebaaca4a7a09279e4c83493.jar" />
-    </item>
-    <item
         is-multidex="false"
         jar="/Users/niketgoel/Downloads/expense-tracker-master1/app/libs/FlurryAgent.jar"
         jumboMode="false"
@@ -52,8 +25,17 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="e1d7e24de6389493fcf48a186ce9169d6fbb2708">
+        sha1="fad87e4342e51c3526be733e283ef751e7e7c5bb">
         <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da91878ccd4fcc0a231d43d5dfcd8ef4d4781194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/libs/httpmime-4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
+        <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.2_5b0971043fc954111139ed73055d028ad0e42c20/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -63,6 +45,15 @@
         revision="25.0.3"
         sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
         <dex dex="/Users/niketgoel/Downloads/expense-tracker-master1/app/build/intermediates/pre-dexed/debug/httpmime-4.2_57248fe7b6b0aafda0c659a5f2b632aa12b07fe0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9dc46ad6ff04134982e37425e563c20c8d75d268/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -81,6 +72,15 @@
         revision="26.0.0"
         sha1="8f10e5986fdced45f3be2290c701192476dc8cf1">
         <dex dex="/Users/niketgoel/Desktop/Android_Project/niketexpensemanager/app/build/intermediates/transforms/dex/debug/folders/1000/2/FlurryAgent_2777acdfde58246396beda5113c4689439323801/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niketgoel/Downloads/expense-tracker-master1/app/libs/AndroidPdfLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21ded6afa9d09d6916e663ce0c5708ca6c2ffa3b">
+        <dex dex="/Users/niketgoel/Downloads/expense-tracker-master1/app/build/intermediates/pre-dexed/debug/AndroidPdfLib_5fd1d1f98d9072454ebaaca4a7a09279e4c83493.jar" />
     </item>
 
 </items>
